@@ -5,9 +5,7 @@ using namespace std;
 struct Sales_data{
 	string bookNo;
 	int val;
-};
-
-struct  Foo
+}
 
 int main()
 {
